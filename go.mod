@@ -9,7 +9,7 @@ require (
 	github.com/gliderlabs/ssh v0.3.3
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/muesli/termenv v0.9.0
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/crypto v0.1.0
 )
 
 require (
@@ -35,8 +35,8 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	golang.org/x/net v0.0.0-20210326060303-6b1517762897 // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
-	golang.org/x/term v0.0.0-20210422114643-f5beecf764ed // indirect
+	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/term v0.1.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
